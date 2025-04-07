@@ -11,13 +11,6 @@ I'm always eager to learn new technologies and methodologies to enhance my devel
 ## 👯 Collaboration
 I'm looking to collaborate on open-source projects.
 
-## 💬 Ask Me About
-- Laravel
-- PHP
-- Blade Templates
-- Email templating & export features
-- Debugging complex queries
-
 ## 📫 How to Reach Me
 - 📧 Email: enquiry@anjalishrestha.com.np
 - 💼 LinkedIn: https://www.linkedin.com/in/theanjali01/
