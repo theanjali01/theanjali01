@@ -6,10 +6,10 @@ Welcome to my GitHub profile! I'm passionate about software development and enjo
 I'm currently working at Intend Technologies, focusing on developing innovative solutions that make a difference.
 
 ## 🌱 Learning and Growth
-I'm always eager to learn new technologies and methodologies to enhance my development skills. Currently, I'm diving deeper into Laravel, Livewire, and frontend performance optimizations.
+I'm always eager to learn new technologies and methodologies to enhance my development skills.
 
 ## 👯 Collaboration
-I'm looking to collaborate on open-source projects related to Laravel, Blade UI, and creative frontend/backend mashups.
+I'm looking to collaborate on open-source projects.
 
 ## 💬 Ask Me About
 - Laravel
@@ -19,9 +19,8 @@ I'm looking to collaborate on open-source projects related to Laravel, Blade UI,
 - Debugging complex queries
 
 ## 📫 How to Reach Me
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐦 Twitter: [Your Twitter Handle]
+- 📧 Email: enquiry@anjalishrestha.com.np
+- 💼 LinkedIn: https://www.linkedin.com/in/theanjali01/
 
 ## 😄 Pronouns
 She/Her
