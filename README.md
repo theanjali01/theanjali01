@@ -32,12 +32,4 @@ I drink coffee like it's a debugging ritual. ☕✨
 
 ---
 
-## 📈 GitHub Stats
-![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=theanjali01&show_icons=true&theme=radical)
-
-## 🏆 Achievements
-![Achievements](https://github-profile-trophy.vercel.app/?username=theanjali01&theme=onedark)
-
----
-
 Thanks for stopping by! If you smiled at the meme, drop a ⭐ somewhere 😄
